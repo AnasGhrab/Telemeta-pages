@@ -2,69 +2,61 @@
 La Phonothèque Nationale, un espace de la mémoire
 =================================================
 
-|
+La création de la Phonothèque nationale tunisienne  (PNT) remonte à la fin de l’année 1994 (Décret n° 94-2137 du 10 octobre 1994). Contrairement à d’autres expérience s à travers le monde, où la Phonothèque / les archives sonores sont rattachés aux bibliothèques nationales,  la PNT a été créée en tant que  sous- direction du Centre des Musiques Arabes et Méditerranéennes . Elle a élu domicile  dans le  bâtiment dit « le Belvédère » anciennement  al-Qubba al-Bīḍā ( la coupole blanche ,  une des dépendances du palais Ennejma Ezzahra).
 
-.. image:: telemeta_en_thumb.png
-   :align: left
-
-
-L’élégante maison dite *al-Qubba al-Bīḍāʾ*, fait office de tour d’angle pour le palais du baron Rodolphe d’Erlanger. Cette dépendance du palais Ennejma Ezzahra abrite depuis 1994 les services de la Phonothèque Nationale, l'un des départements du Centre des Musiques Arabes et Méditerranéennes. À l’instar du musée, de l’exposition permanente d’instruments de musique ou de l’atelier de lutherie, cet espace est dédié à la musique et accueille musiciens, mélomanes et chercheurs.
-
-La Phonothèque Nationale apporte au CMAM une dimension essentielle qui consiste en la sauvegarde du patrimoine phonographique. En effet, ce département assure diverses missions visant à la préservation de ce patrimoine : collecte, traitement et restauration des phonogrammes et surtout sauvegarde et conservation par le moyen du dépôt légal phonographique. 
-
-Avec la Phonothèque Nationale, cet espace de la mémoire, le Centre des Musiques Arabes et Méditerranéennes réalise l’un de ses objectifs fondamentaux et agit comme une institution polyvalente œuvrant, dans une optique pluridisciplinaire, pour la promotion de la musique. 
+La PNT assure  au CMAM une dimension essentielle, qui consiste en la sauvegarde du patrimoine phonographique, sa mise en valeur  et sa diffusion. En effet, ce département assure diverses missions visant à la sauvegarde et la conservation de la mémoire musicale tunisienne .
 
 Missions
 ========
 
-La Phonothèque Nationale a pour mission de collecter, traiter, conserver, restaurer, valoriser et diffuser l’ensemble du patrimoine phonographique tunisien.
-La collecte est réalisée à travers divers moyens : le dépôt légal, la collecte sur terrain, le transfert de fonds externes et l’échange
+Telle que définie dans les statuts du CMAM, la PNT a pour mission de collecter, traiter, conserver, restaurer, valoriser et diffuser l’ensemble du patrimoine phonographique tunisien.
 
-Le dépôt légal
+Ses fonds sont constitués  à travers divers moyens : le dépôt légal des phonogrammes, la collecte sur terrain, le transfert de fonds externes,  l’échange et l’acquisition.
+
+Le dépôt légal  
 ==============
 
-C'est le moyen et l’instrument le plus important de l’opération de collecte. Le dépôt légal rend effectives la conservation et la sauvegarde de la mémoire phonographique  du futur. En effet, la loi sur le dépôt légal actualisée prévoit le dépôt d’un exemplaire de chaque production phonographique mise à la disposition du public.
-Pour que le dépôt légal remplisse sa mission et soit une mémoire de l’édition phonographique, encore faut-il qu’il soit l’observatoire immédiat de cette édition, captant le patrimoine à sa création, sans exclusive de genres, de supports ou de fonctions.
+Depuis sa création, la PNT a été désignée comme la structure publique qui reçoit et gère le dépôt légal des phonogrammes. Cette fonction a été réaffirmée par la dernière actualisation en date de la législation relative  au dépôt légal.  La mise en application de cette dernière mouture de cette  loi attend la publication d’une décision ministérielle précisant les modalités pratiques. 
 
 La collecte sur terrain 
 =======================
 
-Une unité de la Phonothèque Nationale est chargée d’encadrer techniquement et scientifiquement des projets de recherche et des opérations de collecte sur le terrain. Un quadrillage du pays permet de dégager les priorités et les urgences. L’objectif à atteindre est de faire un travail exhaustif qui aboutisse à la constitution d’un fonds d’enregistrements et de publications annexes.
-La Phonothèque Nationale veille aussi à récupérer, dans la mesure du possible, les fonds phonographiques détenus par des institutions nationales (Etablissement de la Radio Télévision Tunisienne)ou étrangères de conservation phonographique. La même démarche est poursuivie auprès des collectionneurs privés.
+L’objectif recherché par les compagnes de collecte sur terrain menées par la PNT est la constitution d’un fonds d’enregistrements des traditions musicales tunisiennes, à des fins de sauvegarde et de recherche. La collecte concerne aussi les instruments de musique
+
+La PNT veille aussi à récupérer, dans la mesure du possible, les fonds phonographiques détenus par des institutions nationales (Etablissement de la Radio Télévision Tunisienne)ou étrangères de conservation phonographique. La même démarche est poursuivie auprès des collectionneurs privés.
+
 L’échange de documents originaux ou de simples copies comble les lacunes éventuelles de nos collections phonographiques. La politique d’échanges complète ainsi la panoplie des instruments et des moyens alimentant le fonds phonographique encyclopédique de la Phonothèque Nationale Tunisienne.
 
-Le traitement
-================
-
-Le fonds phonographique collecté subit un traitement catalographique normalisé. Une indexation scientifique aménage des accès multiples à chaque document. Entièrement informatisées, les opérations de catalogage, d’indexation et de recherche allient l’efficacité à la rapidité. Grâce à la base de données de la Phonothèque Nationale, un instantané précis du patrimoine phonographique tunisien peut être réalisé.
-
-La conservation
-================
-
-Les documents phonographiques collectés sont conservés dans des conditions climatiques et de sécurité optimales. Il est prévu pour la conservation à long terme une politique caractérisée par une double sauvegarde sur un support analogique traditionnel et un support numérique, ce dernier servant essentiellement comme support de consultation.
-
-La restauration
-================
-
-L'atelier de restauration de la Phonothèque Nationale dispose des techniques les plus récentes (notamment dans le domaine du son numérique) pour restaurer les documents phonographiques détériorés et pour intervenir avec une grande précision sur les documents dégradés. Leur double transfert sur un support analogique et digitalisé les met à l’abri des aléas du temps et facilite leur consultation, édition ou réédition.
-
-La valorisation et la diffusion
-===============================
-
-Récupérer et conserver les documents phonographiques tunisiens ne doit pas être une fin en soi. La Phonothèque Nationale Tunisienne veille au respect des droits d’auteurs afférents à la propriété littéraire et artistique et à la reproduction mécanique des documents phonographiques, mais elle veille également, dans le respect des droits des auteurs, à faire revivre ce patrimoine. Cette nouvelle valorisation est effectuée par l’édition phonographique sur des supports fiables et  aussi par le biais de la consultation des documents phonographiques sur place ainsi qu'un programme de publication.
-
-La salle de consultation
+Le  fonds phonographique
 ========================
 
-Les cabines d’écoute de la salle de consultation de la Phonothèque Nationale Tunisienne rendent aisé le travail de recherche et d’étude des musicologues et autres historiens de la musique. Assistés par des documentalistes spécialisés et l’outil informatique, les chercheurs peuvent redécouvrir, revisiter et revaloriser le patrimoine musical tunisien.
+Le fonds  de la PNT rassemble  plus de 30 milles documents audio et audiovisuels es ou publiés, de musique de Tunisie,  du monde arabe  et de la Méditerranée, de 1900 à nos jours. Constitué de supports variés (78 tours, disques vinyles, bandes magnétiques, cassettes, CDs audios, DVD, supports numériques), ce fonds se positionne parmi les plus importants en Afrique du Nord  en terme de qualité, de quantité et de diversité. (voir graphisme). 
 
-L'édition et la réédition phonographique                                                                                                                                                 
-========================================
+Afin de faciliter la lecture de ces documents la PNT détient un parc de phonographes et autres appareils de lectures destinés aussi bien à la lecture  des enregistrements remontant à la première moitié du XXe siècle. La NT détient aussi un fonds  considérable de documents imprimés ayant trait aux enregistrements et aux manifestations musicales organisées par le Centre ( dépliants, livrets, photos, affiches.). Une grande partie de ces documents papier a été numérisée et est accessible sur l’interface électronique http://phonotheque.cmam.tn/
 
-L'édition et la réédition du patrimoine phonographique tunisien sur des supports modernes figurent parmi les missions essentielles de la Phonothèque Nationale Tunisienne. Cependant, il faudrait préciser que la vocation de cette institution nationale n’est pas commerciale. Ces missions sont uniquement et exclusivement à vocation académique et scientifique.
+La numérisation des fonds phonographiques
+=========================================
 
-Les publications
-================
+La PNT a lancé depuis 2009 un travail de numérisation de ses fonds phonographiques .
 
-La mise en valeur du patrimoine phonographique tunisien n’est pas limitée à l’édition et à la réédition phonographique. En effet,des publications parallèles d'une grande diversité ( phonographies nationales, discographies, anthologies ) complètent ce travail, en le plaçant dans son cadre historique et en dégageant sa véritable portée ainsi que sa dimension patrimoniale.
+Le fonds a été pendant  une bonne dizaine d’années géré par  un SGBD  en 20.. un grand projet  a été lancé pour le développement d’une interface web sur Telemeta destinée à permettre la consultation du fonds à distance.
 
+Accéder à la base de données en ligne
+=====================================
+  
+Consultation  et condition d’accès
+
+Inaugurée en décembre 2016, une nouvelle salle d’écoute répondant aux exigences techniques les plus pointues est désormais mise à la disposition des chercheurs, mais aussi du grand public.
+
+La consultation (écoute ou visionnage)  est soumise à une demande à remplir sur  place (lien vers le formulaire de consultation) ou à distance précisant l’objet de la recherche et son objectif (Mémoire de mastère.  Toute   utilisation de document est soumise à l’accord préalable de l’administration du Centre (lien vers autorisation…).
+
+Étant donné l’a limité des postes disponibles une réservation doit être effectuées sur place ou à distance..
+
+Une copie partielle ou intégrale des enregistrements peut être obtenue moyennant une demande (lien vers la demande de copie et l’engagement).
+
+Pour plus d’informations, veuillez contacter conservatrice de la phonothèque, Mme Manoubia Hermi : Téléphone fixe  : 71740102 / 71746051- Courriel : manoubia.hermi@cmam.tn 
+
+Horaires  d’ouverture de la PNT
+===============================
+
+Du lundi à vendredi : de 8h à 15h sauf les jours fériés.

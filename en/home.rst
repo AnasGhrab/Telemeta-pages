@@ -1,135 +1,73 @@
-============================================================
-Telemeta : collaborative multimedia asset management system
-============================================================
+The National Sound Archive, a space dedicated to  memory
+========================================================
 
-|
+The establishment of the Tunisian National Sound Archives (TNSA) dates back to the end of 1994 (Decree No. 94-2137 of 10 October 1994). Unlike other experiences around the world, where  sound archives are attached to national libraries, the TNSA was created as a sub-department of the Center for Arab  and Mediterranean Music. It is located in  the building known as the Belvedere, formerly al-Qubba al-Bīḍā (the white cupola) , one of the ancilary buildings of the Ennejma Ezzahra palace.
+The TNSA provides the CAMM with an essential dimension which is the protection of the phonographic heritage. Indeed, this department pursues several missions aimed at preserving this heritage: collection, cataloguing and restoration of audio recordings and above all, protection and conservation by means of the phonographic legal deposit. 
+ 
+With the TNSA, devoted to memory, the Centre for Arab and Mediterranean Music fulfils one of its fundamental objectives and acts as a polyvalent institution working through a multidisciplinary approach for the promotion of music
 
-|version| |downloads| |travis_master| |coverage_master|
+Missions
+========
 
-Overview
-=========
+As defined in the statutes of the CAMM, the TNSA's mission is to collect, process, conserve, restore, enhance and disseminate the entire Tunisian phonographic heritage.
+Its holdings are constituted through various means: legal deposit of phonograms,  field collecting , transfer of external holdings , exchange and purchase.
 
-Telemeta is a free and open source collaborative multimedia asset management system (MAM) which introduces fast and secure methods to archive, backup, transcode, analyse,  annotate and publish any digitalized video or audio file with extensive metadata. It is dedicated to collaborative media archiving projects, research laboratories and digital humanities - especially in ethno-musicological use cases - who need to easily organize and publish documented sound collections of audio files, CDs, digitalized vinyls and magnetic tapes over a strong database, through a smart and secure platform, in accordance with open web standards.
+The legal deposit
+=================
 
-*Telemeta* stands for *Tele* for "remote access" and *meta* for "metadata".
+Since its creation, the TNSA has been designated as the public body which  receives and manages the legal deposit of phonograms. This function was reaffirmed by the latest update to the legal deposit legislation. The implementation of the last version of this law is awaiting the publication of a ministerial decision specifying the practical modalities.
 
+Field collecting
+================
 
-Key features
-============
+The objective sought by the field collecting campaigns undertaking by the TNSA and affiliated  field collectors,  is the setting up  of a of recordings collection of the Tunisian musical traditions, for safeguarding  and research purposes. Collecting  also concerns musical instruments
 
-* Secure archiving, editing and publishing of audio files over internet.
-* Pure HTML web user interface including dynamical forms and smart workflows
-* "On the fly" audio analyzing and transcoding thanks to TimeSide_
-* Smart dynamical and skinnable audio player with annotations
-* Collaborative indexing with semantic ontologies and timecoded markers
-* Multi-format support : FLAC, OGG, MP3, WAV, MP4, WebM (video) and more
-* User management with individual desk, lists, profiles and rights
-* Playlist management for all users with CSV data export
-* Geo-Navigator for audio geolocalization
-* High level search engine
-* DublinCore compatibility
-* OAI-PMH data provider
-* RSS feed generators
-* XML and ZIP serialized backups
-* EPUB3 "audio book" collection exporter
-* SQLite, MySQL, PostgreSQL or Oracle DB backends
-* Multi-language support (now english and french)
-* Run on any OS
+The TNSA also seeks to recover, as far as possible, the phonographic holdings held by national institutions (Tunisian Radio Television Corporation) or foreign phonographic preservation facilities. The same approach is adopted with private collectors.
 
-Telemeta has been developed since 2006 and is based exclusively on **100% open source and libre** modules. It is mostly written in Python, HTML5 and JavaScript.
+The exchange of original documents or simple copies helps fill  any gaps in our collections. The policy of exchange  thus complements the range of instruments and means feeding the  phonographic collection of the TNSA.
 
+The sound collections
+=====================
 
-Funding and support
-===================
+The TNSA collections feature  more than 30,000 audio and audiovisual documents, the oldest of which dates back to the year 1900, classified according to the nature of the medium .
 
-To fund this long time libre and open source project, we need your explicit support. So if you use Telemeta in production or even in a development or experimental setup, please let us know by:
+The collection includes commercial discs, tapes, and rare or unpublished recordings. 
 
-* staring or forking the project on GitHub_
-* tweeting something to `@parisson_studio <https://twitter.com/parisson_studio>`_ or `@telemeta <https://twitter.com/telemeta>`_
-* drop us an email <support@parisson.com>
+In order to make reading of these documents easier, the TNSA has a set up a collection  of phonographs and other reading devices intended both for reading records (78 rpms) dating back to the first half of the twentieth century. The NT also holds a considerable amount of printed material relating to the Center's recordings and musical events (pamphlets, booklets, pictures, posters). A large part of these paper documents has been digitized and is accessible on the electronic interface http://phonotheque.cmam.tn/.
 
-Thank you so much for your help!
+* The TNSA encourages collectors and the general public to help enrich its holdings  through donations .
 
-API / Documentation
-====================
+Digitization of holdings
+========================
 
-* Official website: http://telemeta.org
-* Publications : https://github.com/Parisson/Telemeta-doc
-* API : http://files.parisson.com/doc/telemeta/
-* Player : https://github.com/Parisson/TimeSide/
-* Example : http://archives.crem-cnrs.fr/archives/items/CNRSMH_E_2004_017_001_01/
+Since 2009, the TNSA has launched a campaign aimed at digitizing  its recordings collections as well as documents related to the recordings (Photo, brochure, pamphlet and poster).
 
+Through donations, exchange agreements, collaborative fieldwork projects and purchase, the collection of published and unpublished recordings and books continues to grow. It provides a rich resource, unique in Britain, for scholars, musicians, media producers and general music enthusiasts. - See more at: https://www.bl.uk/collection-guides/world-and-traditional-music#sthash.DB2JxlLC.dpuf
 
-Bugs, issues, ideas
-===================
+The collection was for a good ten years managed by a DBMS( developped by Minisis, Canada;  in 2015 a major project was launched for the development of a web interface on Telemeta to allow public  access to the holdings  (Access the online database)
 
-If you find some bugs or have good ideas for enhancement, please `leave a issue on GitHub <https://github.com/Parisson/Telemeta/issues/new>`_ with the right label or tweet it `@telemeta <https://twitter.com/telemeta>`_.
+Consultation and access conditions
+==================================
 
-And remember: even if Telemeta suits you, please give us some feedback. We **need** your support!
+Inaugurated in December 2016, a new listening room meeting the most demanding technical requirements is now available to scholars, musicians, media producers and general music enthusiasts.
 
+The consultation (listening or viewing) is subject to a request form to be filled in on site  or online specifying the object of the research and its objective (Master's dissertation, Ph.D. dissertation etc. Any use of document is subject to prior approval by the Center s' management 
 
-License
-=======
+Given the limited number of available workplaces,  please make the necessary reservation  on-site or online.
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+A partial or complete copy of any recording may  be obtained by means of a request accompanied by an undertaking stipulating the limits of use.
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.
+Address: National Sound Archive - Center for Arab and Mediterranean Music «Ennejma Ezzahra» 8, rue du 2 Mars 1934 _ 2026 Sidi Bou Said - Tunisia
 
-You should have received a copy of the GNU Affero General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
+For further  information please contact:
 
+Manoubia Hermi: conservator of the TNSA
 
-.. |version| image:: https://img.shields.io/pypi/v/telemeta.svg
-   :target: https://pypi.python.org/pypi/Telemeta/
-   :alt: Version
+Phone: 71740102/71746051
 
-.. |downloads| image:: https://img.shields.io/pypi/dm/telemeta.svg
-   :target: https://pypi.python.org/pypi/Telemeta/
-   :alt: Downloads
+Email: manoubia.hermi@cmam.tn
 
-.. |travis_master| image:: https://secure.travis-ci.org/Parisson/Telemeta.png?branch=master
-   :target: https://travis-ci.org/Parisson/Telemeta/
-   :alt: Travis
+Opening Hours:
 
-.. |coverage_master| image:: https://coveralls.io/repos/Parisson/Telemeta/badge.png?branch=master
-   :target: https://coveralls.io/r/Parisson/Telemeta?branch=master
-   :alt: Coverage
-
-
-.. _Telemeta: http://telemeta.org
-.. _TimeSide: https://github.com/Parisson/TimeSide/
-.. _OAI-PMH: http://fr.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting
-.. _Parisson: http://parisson.com
-.. _CNRS: http://www.cnrs.fr
-.. _MCC: http://www.culturecommunication.gouv.fr
-.. _CREM: http://www.crem-cnrs.fr
-.. _HumaNum: http://www.huma-num.fr
-.. _IRIT: http://www.irit.fr
-.. _LIMSI: http://www.limsi.fr/index.en.html
-.. _LAM: http://www.lam.jussieu.fr
-.. _LABRI: http://www.labri.fr
-.. _MNHN: http://www.mnhn.fr
-.. _MMSH: http://www.mmsh.univ-aix.fr
-.. _UPMC: http://www.upmc.fr
-.. _DIADEMS: http://www.irit.fr/recherches/SAMOVA/DIADEMS/fr/welcome/&cultureKey=en
-.. _ANR: http://www.agence-nationale-recherche.fr/
-.. _SABIOD: http://sabiod.telemeta.org
-.. _CHANGELOG: http://github.com/Parisson/Telemeta/blob/master/CHANGELOG.rst
-.. _Publications: https://github.com/Parisson/Telemeta-doc
-.. _API : http://files.parisson.com/doc/telemeta/
-.. _Player : https://github.com/Parisson/TimeSide/
-.. _Example : http://archives.crem-cnrs.fr/archives/items/CNRSMH_E_2004_017_001_01/
-.. _Homepage: http://telemeta.org
-.. _GitHub: https://github.com/Parisson/Telemeta/
-.. _IJLRDA: http://www.dalembert.upmc.fr/ijlrda/
-.. _Labex-Passé_Présent: http://passes-present.eu/
-.. _U-Paris10: http://www.u-paris10.fr/
-.. _MdH: http://www.museedelhomme.fr/
-.. _IRCAM: http://www.ircam.fr
-.. _TimeSide-DIADEMS: https://github.com/ANR-DIADEMS/timeside-diadems
-.. _DaCaRyH:  http://archives.crem-cnrs.fr/archives/fonds/CNRSMH_DACARYH/
-.. _Kamoulox: http://www.agence-nationale-recherche.fr/?Projet=ANR-15-CE38-0003
-.. _AHRC: http://www.ahrc.ac.uk/
-.. _Queen Mary University: http://www.qmul.ac.uk/
-.. _SoundSoftware : http://soundsoftware.ac.uk/
-.. _C4DM: http://c4dm.eecs.qmul.ac.uk/
-.. _CMAM: http://www.cmam.nat.tn/
+From Monday to Friday: 8 am to 3 pm except holidays.
+Www.cmam.tn
